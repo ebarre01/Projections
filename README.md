@@ -1,10 +1,10 @@
-# PROJECTIONS:
+# Map projections: From a 3D object to a 2D representation 
 
 ## Class objectives: 
 * Understand projections and key steps in the projection process 
 * Examine how different projection choices influence: 
     1) standard point or line(s)
-    2) patterns of deformation of the four key projection properties (e.g., shape, area, distance, direction)
+    2) patterns of deformation using the four key projection properties (e.g., shape, area, distance, direction)
 * Explore global scale projections 
 
 ## Class slides: 
