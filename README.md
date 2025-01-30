@@ -19,6 +19,7 @@ Key terms:
 * Cases 
 * Standard point / line(s) 
 * Tissot's indicatrix
+* Great circles
 * Projection properties (e.g. shape, area, distance, direction)
 * Equal area projection 
 * Conformal projection 
@@ -30,15 +31,13 @@ Key terms:
 In small groups, explore your assigned world projection. Answer the guiding questions and be prepared to share out with the class. 
 
 World projections: 
-* Mercator 
-* Mollweide (?) 
-* Hammer projection (?)
-* Sanson-Falmsteed (?)
-* Gall-Peters (?)
-* Boone 
-* Robinson 
-* Winkel triple 
-* Choose your own 
+* Mercator
+* Hammer 
+* Mollweide 
+* Gall-Peters 
+* Winkel Tripel 
+* Goode’s Homolosine 
+* Or choose your own
 
 Activity resources: You can use your textbook and explore the projections with a visualization tool [linked here](https://observablehq.com/@floledermann/projection-playground)
 
