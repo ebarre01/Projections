@@ -16,7 +16,8 @@ Slides for the class can be found [here](https://www.canva.com/design/DAGdg_oCxs
 1) [CBS: Why would Trump want Greenland and the Panama Canal? Here's what's behind U.S. interest](https://www.cbsnews.com/news/trump-greenland-panama-canal-why-us-interest/)
 2) [Washington Post: Why might Trump want to buy Greenland?](https://www.washingtonpost.com/graphics/2019/world/amp-stories/photo-tour-and-facts-about-greenland/)
 3) [Time: President Trump Reportedly Wants to Buy Greenland. TIME Reported Similar Plans in 1947](https://time.com/5653894/trump-greenland-history/)
-4) [Financial Times: Why Donald Trump wants Greenland](https://www.ft.com/content/26b2c424-b163-447b-94a7-ffe5a21f3807)
+4) [Reuters:Why does Trump want Greenland and could he get it?](https://www.reuters.com/world/why-does-trump-want-greenland-could-he-get-it-2025-01-08/)
+5) [BBC: Why does Trump want Greenland and what do its people think?](https://www.bbc.com/news/articles/c74x4m71pmjo)
 
 ## Key terms: 
 * Projections 
